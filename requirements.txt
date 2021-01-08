@@ -4,6 +4,3 @@ seaborn
 pandas
 bqplot
 plotly
-ipywidgets
-os
-datetime
