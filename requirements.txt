@@ -4,3 +4,4 @@ seaborn
 pandas
 bqplot
 plotly
+iexfinance
